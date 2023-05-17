@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    background-color: #ebe9dc;
+}
+a {
+    text-decoration: none;
+}
+h1 { 
+    font-size: 60px;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 600;
+    border-bottom: 2px solid gray;
+    margin: 0;
+    padding: 20px;
+
+}
+
+h1 a:visited{
+    color: #036635;   
+
+    }
+h1 img{
+        position: relative;
+        top: 10px;
+        width: 65px;
+    }
+a:visited{
+    color: black;
+}
+
+#grid{
+    display:grid;
+    grid-template-columns: 250px 1fr;
+}
+#grid ol {
+    border-right: 2px solid gray;
+    width: 150px;
+    margin: 0;
+    padding: 20px;
+    padding-left: 80px;
+    padding-top: 40px;
+}   
+#artcle{
+    padding-left: 30px;
+}
+#pgrid {
+    font-weight: 500;
+    font-size: 20px;
+    margin-right: 500px;
+    border-right:2px solid gray ;
+    padding-left: 30px;
+}
+
+#pgrid p{
+    padding-right: 30px;
+}
+#자몽허니{
+    margin: 0;
+    position: absolute;
+    left: 1260px;
+    bottom: 300px;
+}
+#자몽허니 img{
+    width: 400px;
+}
+#자몽허니 p{
+    text-align: center;
+    font-weight: 600;
+}
+
+@media(max-width:500px){
+#grid{
+    display: block;
+}
+ol{
+    border-right: none;
+}
+h1{
+    border-bottom: none;
+}   
+
+
+}

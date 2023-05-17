@@ -1,0 +1,7 @@
+css
+
+class = 함수지정// class="saw">아메리카노  // style 태그에 .saw {   font size: ~ }
+
+id = class보다 상위 함수 class="saw" id="active"> // style 태그에 #active
+
+id값은 한번만

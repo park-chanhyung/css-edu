@@ -1,0 +1,19 @@
+<strong> 볼드체
+<u> 언더라인 underline -> 밑줄 
+<h1> 큰제목
+ <img src="링크">
+<br> 줄바꿈 / <p> 문단 
+<li> 리스트 ● 이거생김
+<ul> 리스트 부모 
+<ol>  자동으로 숫자 넘버링 1. 2. 3. 4. 
+
+
+
+동영상 유튜브 퍼가기 
+댓글 디스커스 disqus
+채팅기능 처크 tawk.to
+웹사이트 방문자 분석기 https://analytics.google.com/analytics/web/provision/?hl=ko&pli=1#/provision
+
+
+https://park-chanhyung.github.io/my-first-web/starbucks.html
+
